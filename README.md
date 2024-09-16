@@ -23,3 +23,8 @@ To get started, install the required dependencies for Redux Toolkit and React:
 ```bash
 npm install @reduxjs/toolkit react-redux
 ```
+### Key Features:
+- Simple counter implementation using Redux Toolkit's createSlice.
+- Global state management made easy with Redux Toolkit.
+- Utilizes Redux DevTools for debugging.
+- For more advanced Redux patterns and usage, refer to the Redux Toolkit Documentation.
